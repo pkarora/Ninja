@@ -7,7 +7,7 @@ long long int mod = 998244353;
 
 class node
 {
-    
+
     public:
         long long int a,b,c,d;
 
